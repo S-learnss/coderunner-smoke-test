@@ -1,2 +1,1 @@
-print("Hello from CodeRunner")
-print(6 * 7)
+import time; time.sleep(11)
