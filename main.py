@@ -1,1 +1,1 @@
-import time; time.sleep(11)
+raise ValueError("test failure")
